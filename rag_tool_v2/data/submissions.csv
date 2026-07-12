@@ -1,0 +1,5 @@
+review_id,unternehmen,source,typ,datum,titel,gesamt_score,empfehlung,position,bereich,ort,sprache,arbeitsatmosphaere,work_life_balance,gehalt,karriere,vorgesetzte,gleichberechtigung,image,umwelt_sozial,kollegen,umgang_aeltere,arbeitsbedingungen,kommunikation,interessante_aufgaben,text_positiv,text_negativ,text_verbesserung,text_freitext,eingang,processed
+intern_1,Nordzucker,intern,Mitarbeiter,2026-07-04,Geile Butze,3.8,Empfohlen,Mitarbeiter des Monat,IT,Braunschweig,de,4,4,2,4,4,4,,,4,,4,4,4,Nice dudes ,zucker,Gesünder,,2026-07-04T15:31:02,True
+intern_2,Nordzucker,intern,Mitarbeiter,2026-07-07,awgfa,3.0,Empfohlen,,Produktion,Braunschweig,de,3,3,3,3,3,3,,,3,,3,3,3,asgfasdga,asgasgas,asgasgasg,,2026-07-07T18:53:39,False
+intern_3,Nordzucker,intern,Mitarbeiter,2026-07-07,,3.2,Empfohlen,,Produktion,Braunschweig,de,5,3,3,3,3,3,,,3,,3,3,3,,,,,2026-07-07T19:50:34,False
+intern_4,Nordzucker,intern,Mitarbeiter,2026-07-07,,3.2,Empfohlen,,Produktion,Braunschweig,de,5,3,3,3,3,3,,,3,,3,3,3,sf,ghgth,hfh,,2026-07-07T19:50:42,False
